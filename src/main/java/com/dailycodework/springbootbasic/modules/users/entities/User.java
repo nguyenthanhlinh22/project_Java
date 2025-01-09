@@ -1,2 +1,4 @@
-package com.dailycodework.springbootbasic.modules.users.entities;public class User {
+package com.dailycodework.springbootbasic.modules.users.entities;
+
+public class User {
 }

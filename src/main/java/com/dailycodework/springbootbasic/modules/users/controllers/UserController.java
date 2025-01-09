@@ -1,2 +1,4 @@
-package com.dailycodework.springbootbasic.modules.users.controllers;public class UserController {
+package com.dailycodework.springbootbasic.modules.users.controllers;
+
+public class UserController {
 }
